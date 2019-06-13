@@ -3,4 +3,4 @@ For this project, I created a farming game inspired by the game FarmVille. Compa
 
 In the future, I hope to add more features to the game, possibly a market feature, where the coins can be spent.
 
-This project uses a Jupyter Notebook, and I used Python with packages from the Anaconda Distribution and the pygame module.
+This project uses a Jupyter Notebook to run, and I used Python with packages from the Anaconda Distribution and the pygame module.
