@@ -1,0 +1,3 @@
+# If your project has any requirements not included in anaconda, include them here
+
+My project requires the use of the module pygame. See my project description in the Jupyter Notebook for more information on how to install the module. 
